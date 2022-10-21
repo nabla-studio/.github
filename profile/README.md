@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nabla-studio/.github/blob/main/profile/nabla_dark.png">
-  <img alt="Enabling business to Web3" src="https://github.com/nabla-studio/.github/blob/main/profile/nabla_light.png">
-</picture>
-
+![Enabling business to Web3](https://github.com/nabla-studio/.github/blob/main/profile/nabla_dark.png#gh-dark-mode-only)
+![Enabling business to Web3](https://github.com/nabla-studio/.github/blob/main/profile/nabla_light.png#gh-light-mode-only)
 
 **Nabla** GitHub organization hosts a series of projects and applications related to the main platform and tooling for the IBC ecosystem ⚛️
 
